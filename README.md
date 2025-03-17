@@ -1,1 +1,1 @@
-CGV 사이트를 React, NodeJS, API를 적용해서 만들어 보았습니다.
+CGV 사이트에 React와 Node.js의 서버 express,  API를 적용해서 작업했습니다.
